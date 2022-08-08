@@ -1,0 +1,32 @@
+1. Length of the longest substring without repeating characters in CPP
+2. Length of the longest substring without repeating characters in Java (named as Program2.java)
+3. Find two elements in array whose sum is closest to zero
+4. Draw the following pattern:
+      1
+      2ZYXWV
+      A3ZYXW 65 to 90
+      BA4ZYX
+      CBA5ZY
+      DCBA6Z
+      EDCBA7
+            8
+5. Draw the following pattern:
+      1
+       2
+        3
+         4
+          5
+6. pattern
+1   1
+ 2 2
+  3
+ 4 4
+5   5
+OR
+1     1
+ 2   2
+  3 3
+   4
+  5 5
+ 6   6
+7     7 
