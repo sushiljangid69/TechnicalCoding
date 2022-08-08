@@ -44,3 +44,10 @@ OR
       * * * * * *
       rows = 5, cols = 6
 
+8. Hollow full pyramid
+           *
+          * *
+         *   *
+        *     *
+       *       *
+      * * * * * *
